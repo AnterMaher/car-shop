@@ -1,0 +1,5 @@
+"D:\CLion 2024.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion 2024.3/bin/ninja/win/x64/ninja.exe" -G Ninja -S "C:\Users\anter\OneDrive\سطح المكتب\cars" -B "C:\Users\anter\OneDrive\سطح المكتب\cars\cmake-build-debug"
+-- Configuring done (11.2s)
+CMake Error: CMake can not determine linker language for target: cars
+-- Generating done (0.1s)
+CMake Generate step failed.  Build files cannot be regenerated correctly.

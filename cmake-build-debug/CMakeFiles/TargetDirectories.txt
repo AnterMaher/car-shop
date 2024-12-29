@@ -1,0 +1,3 @@
+C:/Users/anter/OneDrive/سطح المكتب/cars/cmake-build-debug/CMakeFiles/cars.dir
+C:/Users/anter/OneDrive/سطح المكتب/cars/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/anter/OneDrive/سطح المكتب/cars/cmake-build-debug/CMakeFiles/rebuild_cache.dir
